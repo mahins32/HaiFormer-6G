@@ -97,7 +97,7 @@ While existing literature features isolated applications of Digital Twins, Graph
 HaiFormer-6G/
 │
 ├── model.ipynb
-├── dataset/geant
+├── geant
 ├── best_haiformer6g_static_aligned_60ep.pt  
 ├── academic_outputs_png/
 │   ├── attention_heatmap.png
@@ -128,7 +128,7 @@ HaiFormer-6G/
 ##  Installation
 
 ```bash
-git clone https://github.com/yourusername/HaiFormer-6G.git
+git clone https://github.com/mahins32/HaiFormer-6G.git
 
 cd HaiFormer-6G
 
