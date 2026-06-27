@@ -96,19 +96,15 @@ While existing literature features isolated applications of Digital Twins, Graph
 ```text
 HaiFormer-6G/
 │
-├── notebooks/
-│   └── main_pipeline.ipynb
-│
-├── checkpoints/
-│   └── best_model.pt
-│
-├── figures/
+├── model.ipynb
+├── dataset/geant
+├── best_haiformer6g_static_aligned_60ep.pt  
+├── academic_outputs_png/
 │   ├── attention_heatmap.png
 │   ├── confusion_matrix.png
 │   ├── residual_distribution.png
 │   ├── accuracy_curve.png
 │   └── traffic_prediction.png
-│
 ├── README.md
 └── LICENSE
 ```
@@ -183,7 +179,7 @@ The framework is developed using the **GÉANT backbone network traffic dataset**
   author={Mahin, Saiful Islam},
   year={2026},
   note={Open-Source Research Repository},
-  howpublished={https://github.com/yourusername/HaiFormer-6G}
+  howpublished={https://github.com/mahins32/HaiFormer-6G}
 }
 ```
 
