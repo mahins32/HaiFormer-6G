@@ -1,4 +1,4 @@
-# 🚀 HaiFormer-6G: Hierarchical AI-Native Transformer–GNN Framework for Autonomous 6G Networks
+#  HaiFormer-6G: Hierarchical AI-Native Transformer–GNN Framework for Autonomous 6G Networks
 
 ### A Research Framework for AI-Native Autonomous 6G Network Management
 
