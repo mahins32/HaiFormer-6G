@@ -1,0 +1,3 @@
+Target Task Stream,Coefficient of Determination (R^2),Median Absolute Error,Maximum Worst-Case Error Bounds
+Task 1: E2E Path Traffic,0.7921,0.0503,8.1431
+Task 2: Edge QoS Jitter,0.2958,0.0146,N/A
